@@ -1,0 +1,4 @@
+Hijau Background = #145F3E
+Biru Absen belum waktu = #3B7EB8
+Merah Anda Belum Absen = #F83E3E
+Hijau Anda Sudah Absen = #1A882C
